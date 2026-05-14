@@ -881,7 +881,7 @@ function toggleTheme() {
   const icon = document.getElementById("theme-icon");
   const label = document.getElementById("theme-lbl");
 
-  f (document.body.classList.contains("light-mode")) {
+    if (document.body.classList.contains("light-mode")) {
     icon.textContent = "🌙";
     label.textContent = "Night Mode";
   } else {
