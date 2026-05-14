@@ -73,9 +73,7 @@ Builders & Developers
 Property Consultants
 Luxury Villa Showcases
 Construction Companies
-📸 Preview
 
-Add screenshots or live preview images here.
 
 🌐 Live Demo
 
